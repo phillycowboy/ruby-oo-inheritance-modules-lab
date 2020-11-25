@@ -11,7 +11,7 @@ class Song
   @@songs = []
 
   def initialize
-    
+    super
    
   end
 
